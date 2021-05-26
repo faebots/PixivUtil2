@@ -54,6 +54,7 @@ start_iv = False
 dfilename = ""
 
 def no_menu():
+    search_related_tags()
     return 0
 
 def print_related_tags(tag_list):
