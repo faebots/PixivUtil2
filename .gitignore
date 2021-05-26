@@ -55,10 +55,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 Error*
-.venv
-venv/
-.venv/pyvenv.cfg
-.venv/Scripts/activate
-.venv/Scripts/Activate.ps1
-.venv/Scripts/python.exe
-.venv/Scripts/pythonw.exe
+.venv*
