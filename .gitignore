@@ -56,7 +56,7 @@ Temporary Items
 .apdisk
 Error*
 .venv
-venv/
+.venv/*
 .venv/pyvenv.cfg
 .venv/Scripts/activate
 .venv/Scripts/Activate.ps1
