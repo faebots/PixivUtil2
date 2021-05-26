@@ -75,6 +75,8 @@ class PixivImage (object):
     __re_caption = re.compile("caption")
     _tzInfo = None
     tags = list()
+    downloaded = False
+    check_recommended = False
 
     # only applicable for manga series
     manga_series_order: int = -1
